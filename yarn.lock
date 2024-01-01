@@ -1701,10 +1701,10 @@
     "@smithy/util-buffer-from" "^2.0.0"
     tslib "^2.5.0"
 
-"@time-loop/clickup-projen@^0.0.197":
-  version "0.0.197"
-  resolved "https://npm.pkg.github.com/download/@time-loop/clickup-projen/0.0.197/6fe572f82035c624616dcb052b6f15d8230b02ed#6fe572f82035c624616dcb052b6f15d8230b02ed"
-  integrity sha512-vRGMCw3wlw44M9DkCq4z6E/UUluE1/ZXunQdm+KNn7Y6FQC/eslIdzXAZk2U36slMrLms84ZM+57ghMOfgT0nw==
+"@time-loop/clickup-projen@^0.0.198":
+  version "0.0.198"
+  resolved "https://npm.pkg.github.com/download/@time-loop/clickup-projen/0.0.198/a6b718239eac7aa328e354893276101ae53a77b7#a6b718239eac7aa328e354893276101ae53a77b7"
+  integrity sha512-d+t3K8B5gsEqNIGezTmMcly3EvTMuRR9uPKdl5JEiC899uux+O9XfFfajpKag9FFI34C5cXgW38C1snItRTZwg==
   dependencies:
     cson-parser "^4.0.9"
     projen "^0.77.4"
@@ -5448,9 +5448,9 @@ projen@^0.77.4:
     yargs "^17.7.2"
 
 projen@^0.78.0:
-  version "0.78.0"
-  resolved "https://registry.yarnpkg.com/projen/-/projen-0.78.0.tgz#3148000da5a2322666013e689227407a26131ba4"
-  integrity sha512-cLergWOFUGLm+BZy2d0q0MTgyLMw6Htub7XfAgWI7+lsC+anpypeOGvdca3+TcgKZAMZrmPdNjfWNM+5ag6Mew==
+  version "0.78.5"
+  resolved "https://registry.yarnpkg.com/projen/-/projen-0.78.5.tgz#af188ff25cf8a7d8a6f9743b4d678b95459d581b"
+  integrity sha512-XghLqRVsbUrGo6YJJ9KuNXfzTZDvZaP664Di0uEJyQLvrawgag3z2UHOstVbtpzJ2MYZzKQyPVMgwlUfltTyCg==
   dependencies:
     "@iarna/toml" "^2.2.5"
     case "^1.6.3"
